@@ -74,7 +74,7 @@ The market exhibits a **moderately fragmented** structure characterized by a dua
 
 *Self-hosted, transparent, and battle-tested open-source API gateways and reverse proxies. Sorted in **descending order by GitHub stargazers count**.*
 
-| Project | GitHub Stars | License | Primary Tech Stack | Description |
+| Project | GitHub_Stars | License | Primary Tech Stack | Description |
 |:---|:---:|:---:|:---:|:---|
 | **[Caddy](https://github.com/caddyserver/caddy)** | [![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=social&color=white)](https://github.com/caddyserver/caddy/stargazers) | Apache-2.0 | Go | Powerful, enterprise-ready, open source web server with automatic HTTPS and reverse proxying capabilities, ideal for simple SSL-terminating backup endpoints. |
 | **[Traefik Proxy](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | MIT | Go | Modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Natively integrates with Docker, Swarm, Kubernetes, and Consul to auto-discover backup services. |
